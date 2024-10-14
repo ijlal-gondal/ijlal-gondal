@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ijlal!
-- 👀 I’m interested in Cloud/DevOps
+- 👀 I’m interested in Cloud/DevOps/AI
 - 🌱 I’m currently a Master's of Software Engineering student at UTD
 - 💞️ I’m looking to collaborate on architecting cloud solutions/network architecture. 
 - 📫 How to reach me linkedin.com/in/ijlal
